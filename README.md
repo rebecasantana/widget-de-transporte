@@ -1,6 +1,6 @@
 # widget-de-transporte
 
-##:📝 Sobre o projeto
+## :memo: Descrição
 widget de transporte desenvolvida no desafio #19 do #BORACODAR da RocketSeat.
 
 # Resultado fi=nal
