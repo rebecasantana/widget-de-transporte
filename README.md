@@ -14,4 +14,4 @@ Projeto foi desenvolvido nas seguintes tecnologias:
 * Git e Github
 
 ---
-⌨️ com ❤️ por [Rebeca S](https://github.com/rebecasantana) 😊
+feito com ❤️ por [Rebeca S](https://github.com/rebecasantana) 😊
